@@ -2,4 +2,4 @@
 CollectionView
 
 
-<img width="344" alt="Ekran Resmi 2023-07-26 17 00 42" src="https://github.com/alierenats/MovieApp/assets/102768654/c335c227-0647-433c-959c-3799a3e4929b">
+![Ekran Resmi 2023-07-26 18 55 03](https://github.com/alierenats/MovieApplication/assets/102768654/b2a4b657-ef51-4fec-a1ab-22fc4ba6a0e5)
